@@ -1,0 +1,29 @@
+body {
+    text-align: center; /* Centers all content on the page */
+    border-color: lightgreen;
+}
+
+/* Styles the main heading */
+#firstp {
+    word-spacing: 10px;
+    font-variant: small-caps;
+    text-align: center;
+    font-size: 80px;
+}
+
+/* Styles the reason text that changes */
+#reasontext {
+    font-size: 50px;
+}
+
+/* Styles the image element */
+#album {
+    border-style: solid;
+    border-color: #689F38; /* A shade of green */
+    border-width: 5px;   
+    border-radius: 80px; /* Makes the corners rounded */
+    padding: 5px;
+    width: 450px;
+}
+
+/* Step3 -- vvwrite your code here from reference documents */
